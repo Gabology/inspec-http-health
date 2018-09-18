@@ -1,0 +1,6 @@
+name: inspec-http-health
+title: InSpec Http Health
+maintainer: Gabriel Aguilar-Svensk
+license: Mozilla Public License 2.0
+summary: InSpec profile for simple health checking of HTTP service
+version: 0.1.0
